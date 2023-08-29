@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with physics equations (and plenty of other things)
 - 💬 Ask me about .NET Maui (spent the summer working with it)
 - 📫 How to reach me: (laurent.tian.man@gmail.com) (lman@umass.edu)
-- ⚡ Fun fact: I share a birthday with a certain dictator!
+- ⚡ Fun fact: I unintentionally backflipped as a novice skier and just barely missed the landing 
 
 <hr border-top="3px dashed #bbb">
 
