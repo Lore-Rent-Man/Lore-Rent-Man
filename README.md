@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on quadcopters
 - 🌱 I’m currently learning how to improve the skill of learning
-- 🤔 I’m looking for help with physics equations (and plenty of other things)
+- 🤔 I’m looking for help understanding drone physics (and many other things) 
 - 💬 Ask me about .NET Maui (spent the summer working with it)
 - 📫 How to reach me: (laurent.tian.man@gmail.com) (lman@umass.edu)
 - ⚡ Fun fact: I unintentionally backflipped as a novice skier and just barely missed the landing 
